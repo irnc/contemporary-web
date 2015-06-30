@@ -1,4 +1,4 @@
-# contemporary-web
+## Тема семинара
 
 Современный веб или _Семантика HTTP, REST и будущее через призму HTTP/2 и WebAssembly_.
 
@@ -16,7 +16,7 @@
 [html-comms]: https://html.spec.whatwg.org/multipage/comms.html
 [node-http2]: https://github.com/molnarg/node-http2
 
-## Предварительные ресурсы
+## Основные источники обсуждения 
 
 * https://en.wikipedia.org/wiki/HTTP/2
 
